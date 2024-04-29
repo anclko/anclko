@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 - 🔭 I’m currently working on my bachelor degree in Software Development
 - 🌱 I’m currently learning MERN stack.
