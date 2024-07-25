@@ -1,9 +1,11 @@
 ### Hey! 👋
 
-- 🔭 I’m currently working on my bachelor degree in Software Development
-- 🌱 I’m currently learning frontend and backend with a focus on MERN stack
+- 🔭 I’m currently in my 3rd year of working on my bachelor degree in Software Development
+- 🌱 I’m currently learning Mobile Development and Machine Learning
 - 📫 How to reach me: linkedin.com/in/anneclairekoch/
 - 😄 Pronouns: She/Her
+
+- You can find my online resume [here](https://personal-portfolio-kappa-seven-28.vercel.app/)
 
 <h2> 🚀 &nbsp;What I Have Learned and Used So Far</h2>
 <p align="left">
