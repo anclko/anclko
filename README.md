@@ -5,8 +5,7 @@
 - 📫 How to reach me: linkedin.com/in/anneclairekoch/
 - 😄 Pronouns: She/Her
 
-- You can find my online resume [here](https://personal-portfolio-kappa-seven-28.vercel.app/)
-
+- You can find my online resume [here](https://anclko.com/)
 <h2> 🚀 &nbsp;What I Have Learned and Used So Far</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
