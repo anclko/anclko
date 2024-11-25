@@ -63,4 +63,5 @@
 
 ![anclko's Stats](https://github-readme-stats.vercel.app/api?username=anclko&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 ![anclko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anclko&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![anclko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anclko&theme=highcontrast&hide_border=false)
 
