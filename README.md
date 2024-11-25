@@ -61,8 +61,6 @@
 <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 </p>
 
-<h2>Some Stats</h2>
-![anclko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anclko&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 ![anclko's Stats](https://github-readme-stats.vercel.app/api?username=anclko&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-![anclko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anclko&theme=highcontrast&hide_border=false)
+![anclko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anclko&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
