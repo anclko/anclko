@@ -1,7 +1,7 @@
 ### Hey! 👋
 
 - 🔭 I’m currently in my 3rd year of working on my bachelor degree in Software Development
-- 🌱 I’m currently learning Mobile Development and Machine Learning
+- 🌱 I’m currently learning Big Data Analytics
 - 📫 How to reach me: linkedin.com/in/anneclairekoch/
 - 😄 Pronouns: She/Her
 
