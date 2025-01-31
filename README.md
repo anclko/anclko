@@ -1,7 +1,7 @@
 ### Hey! 👋
 
 - 🔭 I’m currently in my 3rd year of working on my bachelor degree in Software Development
-- 🌱 I’m currently learning Big Data Analytics
+- 🌱 I’m currently working on my Bachelor Thesis on "Malware Analysis: A Focus on Intent Hijacking in Android Systems" & working on Software Engineering course
 - 📫 How to reach me: linkedin.com/in/anneclairekoch/
 - 😄 Pronouns: She/Her
 
