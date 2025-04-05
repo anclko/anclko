@@ -1,7 +1,7 @@
 ### Hey! 👋
 
 - 🔭 I’m currently in my 3rd year of working on my bachelor degree in Software Development
-- 🌱 I’m currently working on my Bachelor Thesis on "The Effects of Implicit Intents on IoT Applications" & working on Software Engineering course
+- 🌱 I’m currently working on my Bachelor Thesis on "The Effects of Implicit Intents on IoT Applications" & working as part of a Server Group in a Software Engineering course focused on programming an Arduino Smart Home.
 - 📫 How to reach me: linkedin.com/in/anneclairekoch/
 - 😄 Pronouns: She/Her
 
