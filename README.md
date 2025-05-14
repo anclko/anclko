@@ -1,9 +1,9 @@
 ### Hey! 👋
 
 - 🔭 I’m currently in my 3rd year of working on my bachelor degree in Software Development
-- 🌱 I’m currently working on my Bachelor Thesis on "The Effects of Implicit Intents on IoT Applications" & working as part of a Server Group in a Software Engineering course focused on programming an Arduino Smart Home.
+- 🌱 I’m currently working on my Bachelor Thesis on "The Effects of Implicit Intents on IoT Applications" & working as part of Server Group in a Software Engineering course focused on programming an Arduino Smart Home.
 - 😄 Currently self teaching myself Angular.JS, Flask and  getting familiar working with an Arduino Uno board.
-- - 📫 How to reach me: linkedin.com/in/anneclairekoch/
+- 📫 How to reach me: linkedin.com/in/anneclaire-koch/
 
 
 <h2> 🚀 &nbsp;What I Have Learned and Used So Far</h2>
