@@ -1,5 +1,5 @@
 ### Hey! 👋
-
+- 🚀 Software Development Graduate
 - 😄 Currently learning Elm and Typescript.
 - 📫 How to reach me: linkedin.com/in/anneclaire-koch/
 
